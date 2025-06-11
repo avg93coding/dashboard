@@ -1,5 +1,5 @@
 import React, { useState, useMemo, useCallback, useEffect } from 'react';
-import { ChevronDown, Calendar, User, Filter, X, Download, Plus, Edit, Trash2 } from 'lucide-react';
+import { Calendar, User, Filter, X, Download, Plus, Edit, Trash2 } from 'lucide-react';
 
 // --- Helper Functions ---
 const formatDate = (dateString) => {
